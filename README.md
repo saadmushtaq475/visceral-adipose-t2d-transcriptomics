@@ -33,6 +33,6 @@ The candidate genes were selected using nominal statistical significance
 (P < 0.05) and fold-change criteria. Because no genes passed the predefined
 FDR-adjusted significance threshold, downstream network and drug-repurposing
 analyses should be considered exploratory.
-narrative writeup.
+
 
 ## Repository Structure
