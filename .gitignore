@@ -1,0 +1,18 @@
+# R files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio project files
+*.Rproj
+
+# Temporary files
+~$*
+*.tmp
+*.bak
+
+# Large GEO source files
+GSE78721_series_matrix.txt
+GSE78721_series_matrix.txt.gz
+GPL15207.txt
